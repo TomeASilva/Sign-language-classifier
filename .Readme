@@ -1,0 +1,9 @@
+Neural Network that identifies sign language from 64 * 64 pixel images:
+
+Network configuration:
+    -input layer size: 12288
+    -2 hidden layers of size 25 and 12, respectively
+    -Softmax output layer of size 6
+
+optimizer: Adam with tensor flow default hyperparameters
+
