@@ -1,0 +1,5 @@
+parameters = initialize_parameters()
+print("W1 = " + str(parameters["w1"]))
+print("b1 = " + str(parameters["b1"]))
+print("W2 = " + str(parameters["w2"]))
+print("b2 = " + str(parameters["b2"]))
